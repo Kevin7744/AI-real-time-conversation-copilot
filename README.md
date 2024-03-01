@@ -1,4 +1,6 @@
 # Conversation Copilot
+![image](https://github.com/Kevin7744/AI-real-time-conversation-copilot/assets/105924200/bf116091-fdc8-4f01-b32c-aa051ab035c4)
+
 
 ## Overview
 
